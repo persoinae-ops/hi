@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello from prac02
+=======
+hello from other branch
+>>>>>>> merge-practice
